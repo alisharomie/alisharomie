@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alisha Romie
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=ALISHA+ROMIE" alt="ALISHA ROMIE" />
 
 **Technical Support Engineer** · Self-taught developer ·
 
