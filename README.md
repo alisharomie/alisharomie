@@ -2,7 +2,7 @@
 
 # Alisha Romie
 
-**Technical Support Engineer** · Self-taught developer · Building calm, thoughtful web experiences
+**Technical Support Engineer** · Self-taught developer ·
 
 <br />
 
