@@ -19,7 +19,7 @@
 I work in technical support by day and build for the web by night — Away from product code, I experiment with gaming modding, desktop customization and AI agent workflows.
 
 - Passionate about Full-stack web/apps applications **seamless web experiences** and thoughtful UI
-- Currently exploring **Next.js**, **CMS**, and modern web applications
+- Currently exploring **Next.js**, **CMS** by building ongoing project, and in progress to finishing [Hugging Face](https://huggingface.co/models?other=LLM) workshop to learn about LLMs.
 - Care about aesthetic design, clean code, and solving real problems well
 
 ### Tech Stack
