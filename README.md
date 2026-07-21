@@ -16,7 +16,7 @@
 
 ### About
 
-I work in technical support by day and build for the web by night — drawn to clean interfaces, careful details, and products that feel effortless to use. Away from product code, I experiment with gaming modding, desktop customization and AI agent workflows.
+I work in technical support by day and build for the web by night — Away from product code, I experiment with gaming modding, desktop customization and AI agent workflows.
 
 - Passionate about Full-stack web/apps applications **seamless web experiences** and thoughtful UI
 - Currently exploring **Next.js**, **CMS**, and modern web applications
