@@ -51,7 +51,7 @@ Away from product code, I experiment with gaming modding, desktop customization 
 ### Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02) — 2025
-- SheCodes Bootcamp Alumni (Developer) — 2025
+- SheCodes Bootcamp (Developer) — 2024
 - IBM Cybersecurity Fundamentals — 2025
 - Lean Six Sigma White Belt — 2024
 - IBM SQL and Relational Database — 2022
